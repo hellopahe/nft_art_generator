@@ -1,0 +1,92 @@
+[
+    {
+        "['Ears']": "['Ears/yellow.png']",
+        "['Face']": "['Face/orange.png']",
+        "['Eyes']": "['Eyes/glasses.png']",
+        "['Nose']": "['Nose/orange.png']",
+        "['Hair']": "['Hair/red.png']",
+        "['Mouth']": "['Mouth/yellow.png']",
+        "token_id": 0
+    },
+    {
+        "['Ears']": "['Ears/red.png']",
+        "['Face']": "['Face/orange.png']",
+        "['Eyes']": "['Eyes/glasses.png']",
+        "['Nose']": "['Nose/yellow.png']",
+        "['Hair']": "['Hair/red.png']",
+        "['Mouth']": "['Mouth/black.png']",
+        "token_id": 1
+    },
+    {
+        "['Ears']": "['Ears/green.png']",
+        "['Face']": "['Face/yellow.png']",
+        "['Eyes']": "['Eyes/black.png']",
+        "['Nose']": "['Nose/orange.png']",
+        "['Hair']": "['Hair/green.png']",
+        "['Mouth']": "['Mouth/yellow.png']",
+        "token_id": 2
+    },
+    {
+        "['Ears']": "['Ears/red.png']",
+        "['Face']": "['Face/orange.png']",
+        "['Eyes']": "['Eyes/glasses.png']",
+        "['Nose']": "['Nose/orange.png']",
+        "['Hair']": "['Hair/red.png']",
+        "['Mouth']": "['Mouth/black.png']",
+        "token_id": 3
+    },
+    {
+        "['Ears']": "['Ears/yellow.png']",
+        "['Face']": "['Face/orange.png']",
+        "['Eyes']": "['Eyes/glasses.png']",
+        "['Nose']": "['Nose/orange.png']",
+        "['Hair']": "['Hair/green.png']",
+        "['Mouth']": "['Mouth/black_smile.png']",
+        "token_id": 4
+    },
+    {
+        "['Ears']": "['Ears/yellow.png']",
+        "['Face']": "['Face/yellow.png']",
+        "['Eyes']": "['Eyes/glasses.png']",
+        "['Nose']": "['Nose/orange.png']",
+        "['Hair']": "['Hair/red.png']",
+        "['Mouth']": "['Mouth/black_smile.png']",
+        "token_id": 5
+    },
+    {
+        "['Ears']": "['Ears/yellow.png']",
+        "['Face']": "['Face/orange.png']",
+        "['Eyes']": "['Eyes/black.png']",
+        "['Nose']": "['Nose/yellow.png']",
+        "['Hair']": "['Hair/red.png']",
+        "['Mouth']": "['Mouth/black_smile.png']",
+        "token_id": 6
+    },
+    {
+        "['Ears']": "['Ears/yellow.png']",
+        "['Face']": "['Face/orange.png']",
+        "['Eyes']": "['Eyes/glasses.png']",
+        "['Nose']": "['Nose/orange.png']",
+        "['Hair']": "['Hair/green.png']",
+        "['Mouth']": "['Mouth/black.png']",
+        "token_id": 7
+    },
+    {
+        "['Ears']": "['Ears/red.png']",
+        "['Face']": "['Face/orange.png']",
+        "['Eyes']": "['Eyes/black.png']",
+        "['Nose']": "['Nose/orange.png']",
+        "['Hair']": "['Hair/red.png']",
+        "['Mouth']": "['Mouth/black.png']",
+        "token_id": 8
+    },
+    {
+        "['Ears']": "['Ears/yellow.png']",
+        "['Face']": "['Face/orange.png']",
+        "['Eyes']": "['Eyes/black.png']",
+        "['Nose']": "['Nose/orange.png']",
+        "['Hair']": "['Hair/red.png']",
+        "['Mouth']": "['Mouth/black.png']",
+        "token_id": 9
+    }
+]

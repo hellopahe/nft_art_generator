@@ -18,7 +18,7 @@ paths = {
 component = {}
 component_weights = {}
 
-image_num = 10  # 可修改，超过生成图片的理论最大值会报错
+image_num = 30  # 可修改，超过生成图片的理论最大值会报错
 
 image_id = 0
 token_id = 0
@@ -83,7 +83,7 @@ def generate_png(new_image):
     global image_id
     temp = []
 
-    # 确保现将face存入待处理图像的队列头部
+    # 确保将face存入待处理图像的队列头部，优先堆叠
     for k in new_image:
         if "Face" in k:
             temp.append(Image.open(f'{new_image[k]}').convert('RGBA'))
@@ -106,7 +106,7 @@ def generate_png(new_image):
 
 def generate_metadata():
 
-    # 生成元数据json
+    # 生成图片元数据, 用output_image中的数据经正则过滤后放入json
     data = []
     global token_id
     for im in output_images:

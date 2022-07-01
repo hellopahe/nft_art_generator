@@ -1,11 +1,11 @@
 [
     {
-        "['Face']": "['Face/yellow.png']",
         "['Ears']": "['Ears/red.png']",
-        "['Hair']": "['Hair/purple.png']",
-        "['Mouth']": "['Mouth/smile.png']",
-        "['Eyes']": "['Eyes/pinky.png']",
+        "['Face']": "['Face/orange.png']",
+        "['Hair']": "['Hair/green.png']",
+        "['Eyes']": "['Eyes/black.png']",
         "['Nose']": "['Nose/pink.png']",
-        "token_id": 20
+        "['Mouth']": "['Mouth/smile.png']",
+        "token_id": 18
     }
 ]
